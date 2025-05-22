@@ -5,7 +5,7 @@ const {runtime} = require('../lib/functions')
 const axios = require('axios')
 
 cmd({
-    pattern: "popkid",
+    pattern: "dashboard",
     alias: ["pop","popsmenu"],use: '.menu',
     desc: "menu the bot",
     category: "menu",
@@ -125,13 +125,13 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 │ • .dailyfact
 ╰────────────────────────╯
 
-✨ Powered by *POPKID TECH*
+✨ Powered by *XGAGA BOTS*
 `;
 
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/e6rhto.jpg` },
+                image: { url: `` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
