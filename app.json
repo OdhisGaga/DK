@@ -99,7 +99,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "𝗣𝗢𝗣𝗞𝗜𝗗-𝗠𝗗"
+      "value": "XGAGA GBOT"
 
       }, 
 
@@ -125,13 +125,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/tkebt3.jpg"
+      "value": "https://files.catbox.moe/sfk02i.jpg"
     },
      
     "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ PopkidXtech*"
+      "value": "*keep using xgaga bots*"
     },
 
       "DELETE_LINKS": {
